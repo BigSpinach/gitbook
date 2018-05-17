@@ -1,3 +1,4 @@
-# My Awesome Book
+# 序言
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+序言的文字---------------GitBook Editor 编辑的第一本书
+
